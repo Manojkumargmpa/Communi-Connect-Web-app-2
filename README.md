@@ -8,7 +8,6 @@ The Communi Connect Web App is a platform designed to address and resolve ongoin
 
 - Allow every member of the community to post their problems while maintaining their anonymity.
 - Create a user-friendly and accessible platform for community members to voice their concerns.
-- Streamline communication between community members and relevant authorities.
 - Foster a sense of community engagement and collaboration to address issues effectively.
 - Drive positive change within the community by providing a platform for actionable solutions.
 
