@@ -100,14 +100,14 @@ Note: Make sure you give origin of cors for socket.io(which is present in index.
 #### Admin Registration and Login
 
 1.**Admin Registration:**
-   -Upon visiting the website,new admins are directed to admin signup page by clicking "register/signin admin" in startpage.
-   -Fill out the required registration information.
-   -Based on the information you enter,you will receive "adminID" through email.
-   -AdminId is mandatory while you login as admin.
-   -After successful registration,you will be redirected to the login page.
+   - Upon visiting the website,new admins are directed to admin signup page by clicking "register/signin admin" in startpage.
+   - Fill out the required registration information.
+   - Based on the information you enter,you will receive "adminID" through email.
+   - AdminId is mandatory while you login as admin.
+   - After successful registration,you will be redirected to the login page.
 
 2.**Admin Login**
-   -Enter your credentials(email,AdminID and password) to login
+   - Enter your credentials(email,AdminID and password) to login
 
 #### Home Page Navigation
 
@@ -119,7 +119,7 @@ Note: Make sure you give origin of cors for socket.io(which is present in index.
    - The navigation menu allows you to access various sections of the website, Announcements,Maps,Chats,Posts,WeeklyAnalysis,Profile.
 
 5. **Feedback section:**
-   -There is a feedback section at the end of the homepage(scroll down), through that form you can send your feedback and people managing the website will receive that info through email.
+   - There is a feedback section at the end of the homepage(scroll down), through that form you can send your feedback and people managing the website will receive that info through email.
 
 
 #### Maps
@@ -139,7 +139,7 @@ Note: Make sure you give origin of cors for socket.io(which is present in index.
 8. **Posts:**
    - Post content by mentioning your username and content and should add image(image is mandatory).
    - user can view the posts posted in all pincodeareas.
-   -user can also post anonymously.
+   - user can also post anonymously.
    - user can comment,like,unlike a post.
    - Both user and admin have the authority to delete any post.
    - The "Posts" section is vital for sharing information within the community.
@@ -160,16 +160,16 @@ Note: Make sure you give origin of cors for socket.io(which is present in index.
    - You can also use filters to sort and access specific announcement data.
    
    2.**MultilingualAnnouncements**
-   -This section will enable the user to view announcements in a specific language selected by the user.
+   - This section will enable the user to view announcements in a specific language selected by the user.
 
    3.**Polls**
-   -Admin can submit the poll form in this section and users belonging to the same pincode area will see the recently submitted form of their respective admin.
+   - Admin can submit the poll form in this section and users belonging to the same pincode area will see the recently submitted form of their respective admin.
      
 
 11.**WeeklyAnalysis:**
-  -At the bottom of the page,you can view number of posts made in the last week across all the pincode areas.
-  -On the right of the page,you can view top liked posts and their contents.
-  -On the left side,by entering the respective pincode area,you could see usercounts(number of people registered in that pincode area),announcements count,markers count.
+  - At the bottom of the page,you can view number of posts made in the last week across all the pincode areas.
+  - On the right of the page,you can view top liked posts and their contents.
+  - On the left side,by entering the respective pincode area,you could see usercounts(number of people registered in that pincode area),announcements count,markers count.
 
 #### Profile
 
@@ -180,7 +180,7 @@ Note: Make sure you give origin of cors for socket.io(which is present in index.
     - To log out, click on the "Logout" option in the navigation menu.
    
 #### ChatBot
-   -through this chatbot,you can get to know about the website.
+   - through the chatbot,you can get to know about the website.
 
 These steps outline how to use the various features of the Communi Connect Web App effectively. 
 
