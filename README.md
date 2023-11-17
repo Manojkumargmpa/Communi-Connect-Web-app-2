@@ -158,17 +158,18 @@ Note: Make sure you give origin of cors for socket.io(which is present in index.
 
 10. **Announcements:**
    -Onclicking announcements ,you will see three subsections  Announcements,MultilingualAnnouncements,polls.
-   1.**Announcements(subsection)**
-   - Important information can be conveyed through announcements.
-   - If you login as user then you can only view the announcements.Inorder to post the announcement,you need to be an admin.
-   - New announcements are sent to users(of samepincode as of admin) via email.
-   - You can also use filters to sort and access specific announcement data.
+    
+      1.**Announcements(subsection)**
+      - Important information can be conveyed through announcements.
+      - If you login as user then you can only view the announcements.Inorder to post the announcement,you need to be an admin.
+      - New announcements are sent to users(of samepincode as of admin) via email.
+      - You can also use filters to sort and access specific announcement data.
    
-   2.**MultilingualAnnouncements**
-   - This section will enable the user to view announcements in a specific language selected by the user.
+      2.**MultilingualAnnouncements**
+      - This section will enable the user to view announcements in a specific language selected by the user.
 
-   3.**Polls**
-   - Admin can submit the poll form in this section and users belonging to the same pincode area will see the recently submitted form of their respective admin.
+      3.**Polls**
+      - Admin can submit the poll form in this section and users belonging to the same pincode area will see the recently submitted form of their respective admin.
      
 
 11.**WeeklyAnalysis:**
