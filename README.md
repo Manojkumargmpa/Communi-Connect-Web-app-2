@@ -121,7 +121,7 @@ Note: Make sure you give origin of cors for socket.io(which is present in index.
    - Here, you can learn more about the web app and its features.
 
 4. **Navigation Menu:**
-   - The navigation menu allows you to access various sections of the website, Announcements,Maps,Chats,Posts,WeeklyAnalysis,Profile.
+   - The navigation menu allows you to access various sections of the website, Announcements,Maps,Chats,Posts,WeeklyAnalysis,Profile,polls.
 
 5. **Feedback section:**
    - There is a feedback section at the end of the homepage(scroll down), through that form you can send your feedback and people managing the website will receive that info through email.
@@ -184,6 +184,9 @@ Note: Make sure you give origin of cors for socket.io(which is present in index.
      
 13. **Logout:**
     - To log out, click on the "Logout" option in the navigation menu.
+   
+14. **Polls**
+    - Admin can submit a created form link and users belonging to the pincode area will see the form and can submit their responses.
    
 #### ChatBot
    - through the chatbot,you can get to know about the website.
